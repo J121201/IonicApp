@@ -1,0 +1,7 @@
+{
+  "name": "AppDif",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
